@@ -211,3 +211,4 @@ var controller = (function(budgetCtrl,myUIctrl)
 })(budgetController,myUiController);
 
 controller.init();
+// Run the code.
